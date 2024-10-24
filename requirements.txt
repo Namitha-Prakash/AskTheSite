@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain_community
+langchain_groq
+sentence_transformers
+beautifulsoup4
+faiss-cpu
+langchain_huggingface
