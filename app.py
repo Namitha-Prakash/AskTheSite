@@ -56,7 +56,7 @@ def get_response(user_input):
     return response['answer']
 
 # Initialize the Streamlit app
-st.set_page_config(page_title="Chat with Website", page_icon="🤖")
+st.set_page_config(page_title="Ask The Website", page_icon="🤖")
 st.title("ASK THE SITE")
 
 # Sidebar: URL input and submit button
